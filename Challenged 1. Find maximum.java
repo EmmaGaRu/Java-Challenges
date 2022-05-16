@@ -1,3 +1,6 @@
+//Challenge 1: Find maximum
+//Este programa devuelve el número más grande de la lista
+
 class Main {
 public static void main(String[] args) {
         Integer[] numList = new Integer[]{1, 2, 3, 4, 5};
